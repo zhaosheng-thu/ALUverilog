@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -41.709
+TNS   : -1937.680
+
+Type  : Slow 1200mV 85C Model Setup 'keyboard:keyboard_instance|key_clk'
+Slack : -2.468
+TNS   : -25.632
+
+Type  : Slow 1200mV 85C Model Setup 'ledtube:ledtube_instance|key_clk'
+Slack : -2.058
+TNS   : -16.771
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ledtube:ledtube_instance|key_clk'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'keyboard:keyboard_instance|key_clk'
+Slack : 0.454
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -297.426
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'keyboard:keyboard_instance|key_clk'
+Slack : -1.487
+TNS   : -28.253
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ledtube:ledtube_instance|key_clk'
+Slack : -1.487
+TNS   : -16.357
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -38.211
+TNS   : -1788.782
+
+Type  : Slow 1200mV 0C Model Setup 'keyboard:keyboard_instance|key_clk'
+Slack : -2.179
+TNS   : -22.360
+
+Type  : Slow 1200mV 0C Model Setup 'ledtube:ledtube_instance|key_clk'
+Slack : -1.874
+TNS   : -14.956
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ledtube:ledtube_instance|key_clk'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'keyboard:keyboard_instance|key_clk'
+Slack : 0.404
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -297.426
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'keyboard:keyboard_instance|key_clk'
+Slack : -1.487
+TNS   : -28.253
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ledtube:ledtube_instance|key_clk'
+Slack : -1.487
+TNS   : -16.357
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -17.176
+TNS   : -735.121
+
+Type  : Fast 1200mV 0C Model Setup 'keyboard:keyboard_instance|key_clk'
+Slack : -0.516
+TNS   : -2.403
+
+Type  : Fast 1200mV 0C Model Setup 'ledtube:ledtube_instance|key_clk'
+Slack : -0.317
+TNS   : -1.967
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'keyboard:keyboard_instance|key_clk'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ledtube:ledtube_instance|key_clk'
+Slack : 0.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -218.793
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'keyboard:keyboard_instance|key_clk'
+Slack : -1.000
+TNS   : -19.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ledtube:ledtube_instance|key_clk'
+Slack : -1.000
+TNS   : -11.000
+
+------------------------------------------------------------

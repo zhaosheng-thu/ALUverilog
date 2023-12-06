@@ -1,0 +1,22 @@
+-- begin_signature
+-- ALU
+-- end_signature
+WIDTH=3;
+DEPTH=11;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=BIN;
+
+CONTENT BEGIN
+	10 :	XXX;
+	9 :	000;
+	8 :	000;
+	7 :	000;
+	6 :	000;
+	5 :	000;
+	4 :	000;
+	3 :	000;
+	2 :	000;
+	1 :	000;
+	0 :	000;
+END;

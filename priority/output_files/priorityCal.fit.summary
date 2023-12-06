@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sun Sep 10 19:24:43 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : priorityCal
+Top-level Entity Name : ALU
+Family : Cyclone 10 LP
+Device : 10CL006YE144C8G
+Timing Models : Final
+Total logic elements : 1,926 / 6,272 ( 31 % )
+    Total combinational functions : 1,897 / 6,272 ( 30 % )
+    Dedicated logic registers : 383 / 6,272 ( 6 % )
+Total registers : 383
+Total pins : 73 / 89 ( 82 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

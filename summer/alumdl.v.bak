@@ -1,0 +1,1 @@
+module alu(data_a,data_b,s,zero,cs,carry_in,carry_out);input[7:0]data_a;input[7:0jdata_b;input[2:0]cs;input carry_in;output reg [7:0]S;output zero;output reg carry_out;par ameter AND =3'b000,OR 3'b001,ADD 3'b010,5UB=3'b011,SLT=3'b100,5UBC=3'b101,ADDC=3"b110;reg[8:0]temp 9'bo;

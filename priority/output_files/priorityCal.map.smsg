@@ -1,0 +1,4 @@
+Warning (10268): Verilog HDL information at ALU.v(106): always construct contains both blocking and non-blocking assignments File: D:/QP NEW/priority/ALU.v Line: 106
+Warning (10268): Verilog HDL information at keyboard.v(35): always construct contains both blocking and non-blocking assignments File: D:/QP NEW/priority/keyboard.v Line: 35
+Warning (10268): Verilog HDL information at ledtube.v(36): always construct contains both blocking and non-blocking assignments File: D:/QP NEW/priority/ledtube.v Line: 36
+Warning (10268): Verilog HDL information at ledtube.v(111): always construct contains both blocking and non-blocking assignments File: D:/QP NEW/priority/ledtube.v Line: 111

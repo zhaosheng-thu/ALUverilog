@@ -1,0 +1,16 @@
+
+State Machine - |ALU|begin_cal
+Name begin_cal.011 begin_cal.010 begin_cal.001 begin_cal.000 
+begin_cal.000 0 0 0 0 
+begin_cal.001 0 0 1 1 
+begin_cal.010 0 1 0 1 
+begin_cal.011 1 0 0 1 
+
+State Machine - |ALU|keyboard:keyboard_instance|final_state
+Name final_state.PRESS final_state.COL4 final_state.COL3 final_state.COL2 final_state.COL1 final_state.NONE 
+final_state.NONE 0 0 0 0 0 0 
+final_state.COL1 0 0 0 0 1 1 
+final_state.COL2 0 0 0 1 0 1 
+final_state.COL3 0 0 1 0 0 1 
+final_state.COL4 0 1 0 0 0 1 
+final_state.PRESS 1 0 0 0 0 1 
